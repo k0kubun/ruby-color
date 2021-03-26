@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Takashi Kokubun']
   spec.email         = ['takashikkbn@gmail.com']
 
-  spec.summary       = 'ruby -ruby-color foo.rb'
-  spec.description   = 'ruby -ruby-color foo.rb'
+  spec.summary       = 'ruby-color foo.rb'
+  spec.description   = 'ruby-color foo.rb'
   spec.homepage      = 'https://github.com/k0kubun/ruby-color'
   spec.license       = 'MIT'
   spec.required_ruby_version = Gem::Requirement.new('>= 2.5.0')
