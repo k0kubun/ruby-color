@@ -4,7 +4,7 @@ A joke.
 
 ## Usage
 
-![](./screenshot.png)
+<img src="https://i.gyazo.com/5c2226c49c8067eabe47cef6023998f9.png" width="100px">
 
 ## License
 
