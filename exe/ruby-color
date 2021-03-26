@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+require 'irb/color'
+
+ARGV.each do |arg|
+  print IRB::Color.colorize_code(File.read(arg))
+end
