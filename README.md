@@ -4,7 +4,7 @@ A joke.
 
 ## Usage
 
-```
+```bash
 $ gem install ruby-color
 $ ruby -ruby-color foo.rb
 # colorized foo.rb
