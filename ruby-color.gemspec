@@ -2,8 +2,8 @@
 
 Gem::Specification.new do |spec|
   spec.name          = 'ruby-color'
-  spec.version       = '0.1.0'
-  spec.authors       = ['Yusuke Endoh', 'Takashi Kokubun']
+  spec.version       = '0.2.0'
+  spec.authors       = ['Takashi Kokubun']
   spec.email         = ['takashikkbn@gmail.com']
 
   spec.summary       = 'ruby -ruby-color foo.rb'
